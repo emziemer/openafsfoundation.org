@@ -36,7 +36,7 @@ community with any and all of the skills he acquired on this career path.
 
 David can be reached at <dboldt@usgs.gov>.
 
-### Dave Botsch (10/2014 - present) ###
+### Dave Botsch (10/2014 - emeritus 12/2022) ###
 
 Dave Botsch is employed by the Cornell NanoScale Science and Technology Facility.  At
 the CNF, Dave manages technology solutions (including OpenAFS) for the problems
@@ -92,7 +92,13 @@ both IBM AFS and OpenAFS platforms.  He joined the OpenAFS Elders in 2005.
 
 Todd can be reached at <atd@us.ibm.com>.
 
-### Thomas Keiser (09/2012 - present) ###
+### Matthew W. Johnson (01/2023 - present) ###
+
+Matt Johnson is an Executive Director in Enterprise Computing at Morgan Stanley, based in London, England. He is currently Head of AFS Engineering, EMEA Lead for Storage Engineering, and the Agile Enablement Lead for Compute and Storage. Matt has been at Morgan Stanley for 15 years, and took over leadership of the Firm’s AFS Engineering function in 2019. He is a Master of Engineering graduate of Imperial College London.
+ 
+Matt can be reached at <openafs-board-member@morganstanley.com>
+
+### Thomas Keiser (09/2012 - 12/2017) ###
 
 Thomas Keiser has, throughout the past eight years, been closely involved with
 OpenAFS development and AFS3 protocol standardization.  During his tenure with
